@@ -1,0 +1,8 @@
+.accessToken {
+  display: block;
+  width: 150px;
+  overflow: scroll;
+}
+.accessTokenSpan {
+  width: inherit;
+}
